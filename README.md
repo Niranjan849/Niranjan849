@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Niranjan849, I’m an Under Graduate Student (current) and  UI Designer, interested in building helpful and meaningful products.
-- 👀 I’m interested in UI/UX Design
+- 👀 I’m interested in Software Engineering, UI/UX Design
 - 📫 You can reach me at https://www.linkedin.com/in/niranjanv849/
